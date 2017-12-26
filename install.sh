@@ -27,6 +27,6 @@ function copy_theme {
   echo -e "Copying folder: \e[1;32mOk!\e[0m"
 }
 
-copy_theme Arc
-copy_theme Arc-Dark
-copy_theme Arc-Darker
+copy_theme Quarc
+copy_theme Quarc-Dark
+copy_theme Quarc-Darker
